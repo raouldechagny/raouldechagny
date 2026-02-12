@@ -23,6 +23,12 @@ wip + rentry in the making i'm a lazy chud
 </p>
 
 
+<p align="center">          
+<img src="https://github.com/user-attachments/assets/0b8724cf-ffda-4b92-83de-a94db4909766"> <img src="https://github.com/user-attachments/assets/8188368c-c235-4953-9993-6d6739936c1e">  <img src="https://github.com/user-attachments/assets/b8a569fe-dfd6-4480-9a3e-828a41cc8572">
+</p>
+
+
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wjozsgur4b2ghup6iabhvlqa5m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=f7d6e6&bar_color_cover=false">
