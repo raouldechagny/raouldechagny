@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-wip + strwpg in the making i'm a lazy chud
+wip + strawpage in the making i'm a lazy chud
 </p>
 
 <p align="center">
