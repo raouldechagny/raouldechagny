@@ -30,6 +30,10 @@ wip + strawpage in the making i'm a lazy chud
   </a>
 </p>
 
+
+
+
+
 <p align="center">          
-<img src="https://github.com/user-attachments/assets/0b8724cf-ffda-4b92-83de-a94db4909766"> <img src="https://github.com/user-attachments/assets/8188368c-c235-4953-9993-6d6739936c1e">  <img src="https://github.com/user-attachments/assets/b8a569fe-dfd6-4480-9a3e-828a41cc8572">
+<img src="https://github.com/user-attachments/assets/966fae34-e289-43e1-928c-dc9ab394d1ac"> <img src="https://github.com/user-attachments/assets/699ad0ed-8b9e-4224-a5eb-4f3ad1968e79">  <img src="https://github.com/user-attachments/assets/e2619146-b7d2-43a1-be07-05abfe784f7d">
 </p>
