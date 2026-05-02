@@ -34,6 +34,7 @@ wip + strawpage in the making i'm a lazy chud
 
 
 
+
 <p align="center">          
 <img src="https://github.com/user-attachments/assets/966fae34-e289-43e1-928c-dc9ab394d1ac"> <img src="https://github.com/user-attachments/assets/699ad0ed-8b9e-4224-a5eb-4f3ad1968e79">  <img src="https://github.com/user-attachments/assets/e2619146-b7d2-43a1-be07-05abfe784f7d">
 </p>
