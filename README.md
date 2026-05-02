@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-wip + strawpage in the making i'm a lazy chud
+hi and stuff 👀
 </p>
 
 <p align="center">
