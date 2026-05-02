@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-hi and stuff 👀
 </p>
 
 <p align="center">
